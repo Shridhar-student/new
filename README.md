@@ -2,4 +2,4 @@
 basics
 This begineeng of git
 </br>
-<b>Shridhar</b>
+<h1>shridhar chavan</h1>
